@@ -1,6 +1,8 @@
 ---
 ---
   <main>
+  
+  hola
 
 {% include_relative _repetimos/acerca-de.html %}
 
